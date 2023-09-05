@@ -1,0 +1,6 @@
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.AssemblyReference.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.csproj.CoreCompileInputs.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\bin\Debug\Ex05.MemoryGameLogic.pdb
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameLogic\obj\Debug\Ex05.MemoryGameLogic.pdb

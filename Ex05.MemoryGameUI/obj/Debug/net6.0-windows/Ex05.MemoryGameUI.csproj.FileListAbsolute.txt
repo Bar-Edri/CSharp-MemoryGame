@@ -1,0 +1,42 @@
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.AssemblyReference.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\MemoryGameUI.MemoryGameEntranceForm.resources
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\MemoryGameUI.MemoryGamePlayingForm.resources
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.GenerateResource.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.AssemblyInfoInputs.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.AssemblyInfo.cs
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.CoreCompileInputs.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.exe
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.deps.json
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.runtimeconfig.json
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.pdb
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameLogic.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.CopyComplete
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\refint\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.pdb
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.genruntimeconfig.cache
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\ref\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\C22 Ex05 Bar 204536817 Yaniv 311276059\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameLogic.pdb
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.exe
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.deps.json
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.runtimeconfig.json
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameUI.pdb
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameLogic.dll
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\bin\Debug\net6.0-windows\Ex05.MemoryGameLogic.pdb
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.AssemblyReference.cache
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\MemoryGameUI.MemoryGameEntranceForm.resources
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\MemoryGameUI.MemoryGamePlayingForm.resources
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.GenerateResource.cache
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.AssemblyInfoInputs.cache
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.AssemblyInfo.cs
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.CoreCompileInputs.cache
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.csproj.CopyComplete
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\refint\Ex05.MemoryGameUI.dll
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.pdb
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\Ex05.MemoryGameUI.genruntimeconfig.cache
+C:\Users\Bar\Downloads\.NET Programing\MemoryGame .Net\Ex05.MemoryGameUI\obj\Debug\net6.0-windows\ref\Ex05.MemoryGameUI.dll

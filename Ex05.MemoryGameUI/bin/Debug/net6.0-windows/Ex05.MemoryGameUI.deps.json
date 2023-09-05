@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Ex05.MemoryGameUI/1.0.0": {
+        "dependencies": {
+          "Ex05.MemoryGameLogic": "1.0.0"
+        },
+        "runtime": {
+          "Ex05.MemoryGameUI.dll": {}
+        }
+      },
+      "Ex05.MemoryGameLogic/1.0.0": {
+        "runtime": {
+          "Ex05.MemoryGameLogic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex05.MemoryGameUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex05.MemoryGameLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
